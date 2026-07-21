@@ -23,7 +23,7 @@ En desarrollo.
 ## Instalación
 ```bash
 # Clonar el repositorio
-git clone https://github.com/Ing-ZulmaSalas/sigg-finca-las-mercedes.git
+gh repo clone Davidshh1/sigg-finca-las-mercedes-David
 
 # Entrar al directorio
 cd sigg-finca-las-mercedes
@@ -35,7 +35,7 @@ Para desarrollo se recomienda la extensión **Live Server** de Visual Studio Cod
 
 ## Autor
 
-Ing Zulma Salas
+David Molina
 
 ## Licencia
 
