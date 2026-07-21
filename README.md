@@ -1,11 +1,11 @@
-# SIGG — Sistema Integral de Gestión Ganadera
+ SIGG — Sistema Integral de Gestión Ganadera
 Sistema integral para la administración de la finca **Las Mercedes**. Centraliza el control del inventario del hato, el control sanitario, la reproducción, la producción, los potreros y los costos de la operación.
 
-## Descripción
+ Descripción
 
 El SIGG busca reemplazar los registros manuales por una herramienta digital que permita consultar el estado de la finca en cualquier momento, reducir errores y apoyar la toma de decisiones con información confiable.
 
-## Módulos
+ Módulos
 
 - **Inventario del hato** — Registro e identificación de animales, categorías, altas y bajas.
 - **Control sanitario** — Vacunaciones, tratamientos, enfermedades e historial médico.
@@ -27,15 +27,15 @@ git clone https://github.com/Ing-ZulmaSalas/sigg-finca-las-mercedes.git
 # Entrar al directorio
 cd sigg-finca-las-mercedes
 ```
-## Tecnologías
+ Tecnologías
 
 Por definir.
 
-## Autor
-Ing. Zulma Patricia Salas Bautista
-
-## Licencia
-Este proyecto está bajo la **Licencia MIT**, una licencia permisiva que permite usar, modificar y distribuir el software libremente, siempre que se conserve el aviso de copyright.
+ Autor
+Ing. Zulma Patricia Salas Bautista
+
+ Licencia
+Este proyecto está bajo la **Licencia MIT**, una licencia permisiva que permite usar, modificar y distribuir el software libremente, siempre que se conserve el aviso de copyright.
 
 Consulta el archivo [LICENSE](LICENSE) para el texto completo.
 
