@@ -44,4 +44,4 @@ Este proyecto está bajo la **Licencia MIT**, una licencia permisiva que permite
 Consulta el archivo [LICENSE](LICENSE) para el texto completo.
 
 ```
-Copyright (c) 2026 David Molina
+Copyright (c) 2026 David Molina Ramirez
