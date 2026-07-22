@@ -1,1 +1,6 @@
 Prueba inicial del proyecto SIGG.
+# Pruebas
+
+- Menú cargado correctamente.
+- Año mostrado correctamente.
+- Alerta de módulos verificada.
