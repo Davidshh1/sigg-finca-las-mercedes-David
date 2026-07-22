@@ -6,12 +6,12 @@
 /* ---------- 1. Variables (los colores y medidas del sitio) ---------- */
 :root {
     /* Colores */
-    --pasto-hondo: #1B3024;   /* verde de pradera en sombra: fondos oscuros */
+    --pasto-hondo: #42805d;   /* verde de pradera en sombra: fondos oscuros */
     --pasto:       #2F5340;   /* verde medio */
     --ocre:        #D69A2D;   /* pasto seco: color de acento */
-    --cuero:       #8A5A34;   /* cuero: acento secundario */
+    --cuero:       #8a4a16;   /* cuero: acento secundario */
     --tinta:       #221C16;   /* texto principal */
-    --tinta-suave: #5C544B;   /* texto secundario */
+    --tinta-suave: #574838;   /* texto secundario */
     --hueso:       #FAFAF8;   /* fondo de la página */
     --borde:       #E2DFD7;   /* líneas y bordes */
     --blanco:      #FFFFFF;
@@ -41,8 +41,8 @@ body {
     background-color: var(--hueso);
     color: var(--tinta);
     font-family: var(--texto);
-    font-size: 17px;
-    line-height: 1.6;
+    font-size: 30px;
+    line-height: 1.9;
     -webkit-font-smoothing: antialiased;
 }
 
@@ -78,10 +78,10 @@ button:focus-visible {
 
 /* Etiqueta pequeña sobre los títulos */
 .cintillo {
-    margin-bottom: 14px;
+    margin-bottom: 20px;
     color: var(--cuero);
     font-family: var(--dato);
-    font-size: 12px;
+    font-size: 15px;
     font-weight: 500;
     letter-spacing: 0.14em;
     text-transform: uppercase;
