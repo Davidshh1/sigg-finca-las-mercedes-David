@@ -28,7 +28,7 @@ document.addEventListener("DOMContentLoaded", function () {
             evento.preventDefault();
 
             const nombre = enlace.querySelector(".modulo__nombre").textContent;
-            alert("El módulo «" + nombre + "» todavía está en construcción.");
+           alert(`El módulo «${nombre}» todavía está en construcción.`);
         });
     });
 
