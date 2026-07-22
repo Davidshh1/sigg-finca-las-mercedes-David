@@ -1,0 +1,1 @@
+Configuración inicial del proceso de construcción del proyecto.
